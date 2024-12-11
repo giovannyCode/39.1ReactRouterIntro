@@ -1,0 +1,29 @@
+.chips-container {
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: #f9f9f9;
+}
+
+.chips-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.chips-details {
+  margin-top: 12px;
+}
+
+.chips-details h3 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.chips-details p {
+  font-size: 1.2em;
+  color: #555;
+}
